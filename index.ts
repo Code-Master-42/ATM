@@ -14,7 +14,7 @@ if(pinEntered.pin == pinNumber){
         name:"accountType",
         message:"Select your account type",
         type:"list",
-        choices:[
+        choice:[
             "Current Account",
             "Savings Account",
 
